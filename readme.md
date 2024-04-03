@@ -1,5 +1,8 @@
 # regiohelden
 
+ChatGPT chatbot voor workshop 
+https://regiohelden.zapier.app/
+
 Open Street Map
 https://www.openstreetmap.org/
 
