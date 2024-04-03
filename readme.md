@@ -6,13 +6,13 @@ https://regiohelden.zapier.app/
 
 **Oefening II**<br>
 Open Street Map
-https://www.openstreetmap.org/
+https://www.openstreetmap.org/<br>
 Overpass Turbo
 https://overpass-turbo.eu/
 
 **Oefening III**<br>
 Google Colab
-https://colab.research.google.com/
+https://colab.research.google.com/<br>
 Schiphol Wachttijden
 https://www.schiphol.nl/api/proxy/v3/waittimes/security-filters
 
