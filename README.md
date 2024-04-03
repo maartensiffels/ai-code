@@ -1,1 +1,13 @@
 # regiohelden
+
+Open Street Map
+https://www.openstreetmap.org/
+
+Overpass Turbo
+https://overpass-turbo.eu/
+
+Google Colab
+https://colab.research.google.com/
+
+Dit is de voorbeeld url om een uitspraak te downloaden
+https://uitspraken.rechtspraak.nl/api/pdfdownload/ECLI_NL_RVS_2022_553
