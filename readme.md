@@ -18,8 +18,10 @@ https://www.openstreetmap.org/<br>
 Overpass Turbo
 https://overpass-turbo.eu/
 
-**Oefening IV - API Scraping**<br>
-Schiphol Wachttijden
-https://www.schiphol.nl/api/proxy/v3/waittimes/security-filters<br>
+**Oefening IV - Python**<br>
 Google Colab
 https://colab.research.google.com/
+
+**Oefening V - API Scraping**<br>
+Schiphol Wachttijden
+https://www.schiphol.nl/api/proxy/v3/waittimes/security-filters<br>
