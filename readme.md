@@ -11,10 +11,10 @@ Overpass Turbo
 https://overpass-turbo.eu/
 
 **Oefening III**<br>
-Google Colab
-https://colab.research.google.com/<br>
 Schiphol Wachttijden
-https://www.schiphol.nl/api/proxy/v3/waittimes/security-filters
+https://www.schiphol.nl/api/proxy/v3/waittimes/security-filters<br>
+Google Colab
+https://colab.research.google.com/
 
 **Oefening IV**<br>
 Dit is de voorbeeld url om een uitspraak te downloaden
