@@ -6,7 +6,7 @@ https://regiohelden.zapier.app/
 
 **Oefening II**<br>
 Wikidata
-https://www.wikidata.org/<br
+https://www.wikidata.org/<br>
 Wikidata Query Service
 https://query.wikidata.org/
 
