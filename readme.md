@@ -2,7 +2,9 @@
 
 **Oefening I - Google Dorking**<br>
 ChatGPT chatbot voor workshop 
-https://regiohelden.zapier.app/
+https://regiohelden.zapier.app/<br>
+Google
+https://www.google.nl
 
 **Oefening II - Wikidata**<br>
 Wikidata
