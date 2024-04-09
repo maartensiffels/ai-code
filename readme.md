@@ -1,6 +1,6 @@
 # regiohelden
 
-**Oefening I**<br>
+**Oefening I** - Google Dorking<br>
 ChatGPT chatbot voor workshop 
 https://regiohelden.zapier.app/
 
