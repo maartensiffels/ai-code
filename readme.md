@@ -1,11 +1,11 @@
-# regiohelden
+![image](https://github.com/maartensiffels/regiohelden/assets/35161717/e72b8877-edd4-4fa8-b637-c7b31842c7a1)# regiohelden
 
 **ChatGPT chatbot voor workshop**<br>
 https://regiohelden.zapier.app/<br>
 
 **Oefening I - Google Dorking**<br>
 Google Dorking
-https://en.wikipedia.org/wiki/Google_hacking<br>
+https://gijn.org/resource/tips-for-optimizing-google-search-in-investigations-from-online-expert-henk-van-ess/<br>
 Google
 https://www.google.com<br>
 
