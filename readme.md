@@ -1,10 +1,13 @@
 # regiohelden
 
-**Oefening I - Google Dorking**<br>
 ChatGPT chatbot voor workshop 
 https://regiohelden.zapier.app/<br>
+
+**Oefening I - Google Dorking**<br>
+Google Dorking
+https://en.wikipedia.org/wiki/Google_hacking
 Google
-https://www.google.nl
+https://www.google.com<br>
 
 **Oefening II - Wikidata**<br>
 Wikidata
