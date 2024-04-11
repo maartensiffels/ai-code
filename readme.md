@@ -1,6 +1,6 @@
 # regiohelden
 
-ChatGPT chatbot voor workshop 
+**ChatGPT chatbot voor workshop**<br>
 https://regiohelden.zapier.app/<br>
 
 **Oefening I - Google Dorking**<br>
