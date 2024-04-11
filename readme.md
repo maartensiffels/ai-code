@@ -1,5 +1,3 @@
-![image](https://github.com/maartensiffels/regiohelden/assets/35161717/e72b8877-edd4-4fa8-b637-c7b31842c7a1)# regiohelden
-
 **ChatGPT chatbot voor workshop**<br>
 https://regiohelden.zapier.app/<br>
 
