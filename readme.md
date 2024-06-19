@@ -1,5 +1,5 @@
 **ChatGPT chatbot voor workshop**<br>
-https://regiohelden.zapier.app/<br>
+https://ai-code.zapier.app/<br>
 
 **Oefening I - Google Dorking**<br>
 Google Dorking
