@@ -19,10 +19,8 @@ https://www.openstreetmap.org/<br>
 Overpass Turbo
 https://overpass-turbo.eu/
 
-**Oefening IV - Python**<br>
+**Oefening IV - Python en API Scraping**<br>
 Google Colab
-https://colab.research.google.com/
-
-**Oefening V - API Scraping**<br>
+https://colab.research.google.com/<br>
 Schiphol Wachttijden
 https://www.schiphol.nl/api/proxy/v3/waittimes/security-filters<br>
